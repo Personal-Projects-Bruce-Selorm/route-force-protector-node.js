@@ -1,0 +1,27 @@
+{
+  "name": "route-force-protector-node",
+  "version": "1.0.0",
+  "description": "route force atack protecter using node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Personal-Projects-Bruce-Selorm/route-force-protector-node.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "route",
+    "force",
+    "atack",
+    "file",
+    "systems"
+  ],
+  "author": "Justice Selorm Bruce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Personal-Projects-Bruce-Selorm/route-force-protector-node.js/issues"
+  },
+  "homepage": "https://github.com/Personal-Projects-Bruce-Selorm/route-force-protector-node.js#readme"
+}
