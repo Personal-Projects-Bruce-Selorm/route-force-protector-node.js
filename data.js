@@ -10,7 +10,7 @@ const path = require('path')
 const data = {}
 
 // Define the base directory for storing data
-const basePath = path.join(__dirname, '..', '.data')
+const basePath = path.join(__dirname, '..', 'data')
 
 /**
  * Create a new file and write data to it
